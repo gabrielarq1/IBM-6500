@@ -1,0 +1,34 @@
+---
+title: "W02-Reflection Essay-Introduction to Positron"
+author: Gabriela Raygoza Quintero
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    theme: darkly
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## What do you like about Positron compared with RStudio?
+
+> Personally, the biggest difference between both platforms is the fact, that it has an integrated AI assistant that can help you with creating the code and even running it through your console and even including it to your work. What I enjoyed the most about this was the amount of visuals you have the ability of seeing the data as you work through the project you are working on. It was nice seeing the data in a visual table like the histogram from the video, having the ability to do this with help better present and analyze the data set you are working with.
+
+## AI Presentation
+
+> 1.  A feature that I enjoyed learning about was the built in copilot that it has where it can help provide support as your coding your own line. I thought it was interesting that the AI tool will highlight what you did wrong when processing the script. What I find notable about this AI support is the fact that it is designed to be bilingual in a way which allows students the opportunity to learn as needed based on whether they are using R or Python.
+>
+> <!-- -->
+>
+> 2.  I found the built in positron assistant to be the most helpful considering it can view the active environment where the data is being stored. What I enjoy the most is the fact that it can see visuals as well like tables or graphs. It is important for myself to have visual aids especially when it comes to gathering any data as need considering that I am primarily a visual learner.
+
+> 3.  I feel like this is a nice way to experiment and learn different ways to be efficient and save as much time as possible. I found it really nice to have the steps broken down, it feels like I have a clear understanding of the instructions it is giving back and walking me through with details. I loved playing around with the tags available and how it could write code and turn it into a pong game. Overall there's a lot of great features depending on your needs at the moment of using the platform.
+>
+>     ![](images/Screenshot 2026-09-10 005401-02.png)
+
+## Appendix 
