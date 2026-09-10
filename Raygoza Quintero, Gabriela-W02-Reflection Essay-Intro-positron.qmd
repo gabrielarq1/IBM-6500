@@ -29,6 +29,6 @@ execute:
 
 > 3.  I feel like this is a nice way to experiment and learn different ways to be efficient and save as much time as possible. I found it really nice to have the steps broken down, it feels like I have a clear understanding of the instructions it is giving back and walking me through with details. I loved playing around with the tags available and how it could write code and turn it into a pong game. Overall there's a lot of great features depending on your needs at the moment of using the platform.
 >
->     ![](images/Screenshot 2026-09-10 005401-02.png)
+>     ![](images/Screenshot%202026-09-10%20005401-02.png)
 
-## Appendix 
+## Appendix
