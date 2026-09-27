@@ -1,0 +1,91 @@
+---
+title: "M05-Visualizing Data with Tables for MSDM CEP"
+author: "Gabriela Raygoza Quintero"
+date: '`r format(Sys.time())`'
+format: 
+  html: 
+    toc: true
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+theme: darkly 
+---
+
+## Short Essay
+
+> The videos were really insightful considering the emphasis they had on how to create professional tables using Rstudio and how to transition from data wrangling to its presentation format as seen below. I enjoyed learning how "grammar of tables" operates by building layers, for example adding footnotes, stubs and even spanners which transformed raw data into a condensed visual format. The `gt` package did a good job of structuring the table into a customization format making it easy to reformat the labels on columns. The `gtExtras` stood out to me the most considering how seamless it is to integrate visuals like distribution plots which helps elevate the tables image at a quick glance for business leaders. The tables compliment the charts by providing the exact values necessary for example, business leaders will be able to see the exact total revenue and average price side by side. A table would be best to use rather than a chat to visualize data when there are different items that need to be seen side by side. An example of this would be seen in the table below where different measurements are being compares like the top pizza categories, total revenue and the average price of them. Aside from com
+
+## Using gt package
+
+[^1]
+
+[^1]: I do not have data for my MSDM CEP at the moment so below I will be using the "pizzaplace" data set.
+
+```{r}
+library(tidyverse)
+library(gt)
+library(gtExtras)
+## first load in the data set by: 
+data("pizzaplace")
+## to make sure that data was loaded in correctly do: 
+head(pizzaplace)
+
+## wrangle data by pizza category and create list column
+## doing this will help narrow down the categories and provide
+## us with a condensed overview of the huge data set
+pizza_sum <- pizzaplace |> 
+  group_by(type) |> 
+  summarize(
+    total_revenue = sum(price) , 
+    avg_price = mean(price) , 
+    price_trend = list(price) , 
+    .groups = "drop"
+  )
+## building the table following the requirements: 
+## below you will see the breakdown of how the table was constructed
+pizza_sum |> 
+  gt(rowname_col = "type") |> 
+  tab_header(
+    title = "Pizza Place Revenue Overview", ## 1. 
+    subtitle = "Performance grouped by pizza category") |>  
+  tab_stubhead(label = "Pizza Category") |> ## 2
+  cols_label(  
+    total_revenue = "Total Revenue", ## 3
+    avg_price = "Average Price", 
+    price_trend = "Price Distribution") |> 
+  tab_spanner(
+    label= "Financial Metrics", ## 6
+    columns = c(total_revenue, avg_price)) |> 
+  fmt_currency(
+    columns = c(total_revenue, avg_price), ## 7
+    decimals = 2) |> 
+  data_color(
+    columns = total_revenue, ## 8 
+    palette = "Blues" ) |> 
+  gt_plt_dist(price_trend, type = "boxplot") |> ## 9
+  tab_footnote(
+    footnote = "Top revenue driver for 2015", ## 5
+    locations = cells_stub(rows = "classic")) |> 
+  tab_source_note(
+    source_note = "Source: Built-in pizzaplace data set from gt package") ## 4
+ 
+```
+
+[^2]
+
+[^2]: All of the following requirements needed for the completion of this assignment have been indicated next to the corresponding code string as: "\## X""
+
+## Explanation
+
+> The following table would be worth including in an MSDM project written report or presentation slides because it does an efficient job of condensing a large dataset. As seen above, the outout provieded a clean summary, allowing business leaders to immediatley identify top-preforming categories through color visualization as seen above. This allows them to also understand the variance in the individual pricing as seen in price distribution charts.
+
+## Appendix
+
+| GitHub Repository URL:
+
+| GitHub
+
+## 
