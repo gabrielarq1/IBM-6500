@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 /.quarto/
 .Rproj.user
 
 **/*.quarto_ipynb
 .DS_Store
 .DS_Store
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> 35c5cb821bdf9f74ae3171270239fa00ee4bb76e
