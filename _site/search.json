@@ -114,7 +114,7 @@
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Hi, I’m [Your Name Here]",
+    "title": "Hello, I’m Gabriela Raygoza Quintero!",
     "section": "Let’s Connect",
     "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
   },
@@ -124,5 +124,26 @@
     "title": "Contact Us",
     "section": "",
     "text": "Template"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hello, I’m Gabriela Raygoza Quintero!",
+    "section": "",
+    "text": "I hold a Bachelor of Arts in Spanish from California State University, San Marcos."
+  },
+  {
+    "objectID": "marketing-analytics.html#golf-performance-lab--ibm-6010",
+    "href": "marketing-analytics.html#golf-performance-lab--ibm-6010",
+    "title": "Marketing Analytics",
+    "section": "Golf Performance Lab- IBM 6010",
+    "text": "Golf Performance Lab- IBM 6010\n\n\nCampaign Performance Analysis:\nMarketing Mix & Attribution:\n\nGolf Performance Lab"
+  },
+  {
+    "objectID": "marketing-analytics.html#ai-assisted-evidence-synthesis-for-marketing-decisions",
+    "href": "marketing-analytics.html#ai-assisted-evidence-synthesis-for-marketing-decisions",
+    "title": "Marketing Analytics",
+    "section": "AI-Assisted Evidence Synthesis for Marketing Decisions",
+    "text": "AI-Assisted Evidence Synthesis for Marketing Decisions\n\n\nMarketing Mix & Attribution:\nCustomer and Market Insights:"
   }
 ]

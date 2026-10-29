@@ -1,27 +1,23 @@
 ---
-title: "Hi, I'm [Your Name Here]"
+title: "Hello, I'm Gabriela Raygoza Quintero!"
 ---
 
-
-::: {.columns}
+::::: columns
 ::: {.column width="30%"}
-![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+![](images/DSCN0014.JPG){style="border-radius: 50%;"}
 :::
+
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm Digital Marketing Graduate student at Cal Poly Pomona with a passion for building community through strategic and creative communication.
 :::
-:::
+:::::
 
-## About Me
-
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
-
-
+I hold a Bachelor of Arts in Spanish from California State University, San Marcos.
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can [email me](mailto:g.raygozaquintero@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gxbrielxrq/).
 
----
+------------------------------------------------------------------------
 
 *Welcome to my portfolio.*

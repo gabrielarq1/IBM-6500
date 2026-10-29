@@ -4,9 +4,9 @@ title: "Strategic Marketing"
 
 Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success.
 
-## [Project Title 1: Strategic Campaign Planning]
+## \[Project Title 1: Strategic Campaign Planning\]
 
-In this project, I led the development of a comprehensive marketing campaign for **[product, service, or initiative]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
+In this project, I led the development of a comprehensive marketing campaign for **\[product, service, or initiative\]**. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.
 
 **Skills Demonstrated:**
 
@@ -15,11 +15,11 @@ In this project, I led the development of a comprehensive marketing campaign for
 - **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
 - **Brand Positioning:** Ensured consistency across all touchpoints.
 
----
+------------------------------------------------------------------------
 
-## [Project Title 2: Brand Audit & Positioning]
+## \[Project Title 2: Brand Audit & Positioning\]
 
-This initiative involved conducting a full brand audit for **[organization or brand]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
+This initiative involved conducting a full brand audit for **\[organization or brand\]**, evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.
 
 **Skills Demonstrated:**
 
@@ -28,11 +28,11 @@ This initiative involved conducting a full brand audit for **[organization or br
 - **Strategic Communication:** Developed new value propositions and storytelling elements.
 - **Stakeholder Presentation:** Delivered recommendations to senior leadership.
 
----
+------------------------------------------------------------------------
 
-## [Project Title 3: Product Launch Go-to-Market Plan]
+## \[Project Title 3: Product Launch Go-to-Market Plan\]
 
-For the release of **[new product/service]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
+For the release of **\[new product/service\]**, I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.
 
 **Skills Demonstrated:**
 
@@ -43,12 +43,13 @@ For the release of **[new product/service]**, I created a go-to-market (GTM) str
 
 Below is an embedded demonstration of the interactive report:
 
+<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;">
 
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+</iframe>
 
----
+------------------------------------------------------------------------
 
-## [Project Title 4: Client Consulting & Campaign Optimization]
+## \[Project Title 4: Client Consulting & Campaign Optimization\]
 
 I collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.
 

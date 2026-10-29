@@ -41,7 +41,7 @@ Motivated and detail-oriented marketing and analytics professional with a strong
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
+- **Programming Languages:** R, Python, SQL, etc.\
 - **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.
 
 # Education

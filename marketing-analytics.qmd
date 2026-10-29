@@ -19,4 +19,18 @@ Whether developing dashboards, analyzing campaign performance, or uncovering ins
 - **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
 - **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
 
----
+------------------------------------------------------------------------
+
+## Golf Performance Lab- IBM 6010
+
+> - Campaign Performance Analysis:
+>
+> - Marketing Mix & Attribution:
+>
+> [Golf Performance Lab](https://www.golfperformancelab.com/)
+
+## AI-Assisted Evidence Synthesis for Marketing Decisions
+
+> - Marketing Mix & Attribution:
+>
+> - Customer and Market Insights:

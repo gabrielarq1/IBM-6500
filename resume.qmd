@@ -5,14 +5,14 @@ title: "Résumé"
 ```{r knit-resume, echo=FALSE, message=FALSE}
 rmarkdown::render(
   "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
+  output_format = "resume/Resume.Rmd",
+  output_file   = "Resume.Rmd",
   output_dir    = "resume",
   quiet         = TRUE
 )
 ```
 
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
+You can view a PDF version of my résumé [here](resume/GRQ_CV_10_2026.pdf).
 
 # Professional Summary
 
@@ -20,36 +20,38 @@ Results-oriented marketing and analytics professional with a strong foundation i
 
 # Technical Skills
 
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
+- **Programming Languages:** R\
+- **Web Technologies:** HTML, JavaScript, Quarto, Analytics Tools
 
 # Education
 
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
+| Degree | Year | College / Department | Institution |
+|------------------|------------------|-------------------|------------------|
+| Master of Science- Digital Marketing | August 2026– 2027 | Singelyn Graduate School of Business | California State Polytechnic University, Pomona |
+| Bachelor of Arts | August 2021- May 2026 | College of Humanities, Arts, Behavioral and Social Sciences | California State University, San Marcos |
 
 # Work Experience
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+### Prestige Beauty Advisor, Ulta Beauty
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+*\[November 2023 – Present\]*
 
----
+- Ranked amongst the top 5 store associates year to date based on credit performance, loyalty conversion, and customer service metrics\
+- Maintained 100% data capture accuracy across customer information including, email, address, and birthday enrollment metrics\
+-  Leveraged bilingual communication skills in English and Spanish to strengthen engagement with bicultural consumers while collaborating with team members and mentoring new associates to foster an inclusive and customer-focused workplace culture
+- Tools: MPOS, POS \
+- \[Any metrics, impacts, or stakeholder involvement\]
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+------------------------------------------------------------------------
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+### \[Job Title\], \[Company or Organization\]
 
----
+*\[Start Date – End Date\]*
+
+- \[Responsibility or accomplishment #1\]\
+- \[Responsibility or accomplishment #2\]\
+- \[Team leadership, training, or development\]\
+- \[Projects involving marketing, data, or web technologies\]\
+- \[Toolset used or strategies implemented\]
+
+------------------------------------------------------------------------
