@@ -1,0 +1,43 @@
+---
+title: "Qualtrics Assignment 2"
+author: "Gabriela Raygoza Quintero"
+date: today
+theme: darkly
+format: 
+  html:
+    toc: true 
+    toc-depth: 3 
+    toc-expand: 1 
+    toc-location: right 
+    embed-resources: true 
+---
+
+## Random Assignment
+
+> Below you fill find images of the `Randomizer` function and `Branch` function in a survey flow.
+>
+> ![](images/Screenshot 2026-10-29 172107.png){fig-align="center"}
+>
+> ![](images/Screenshot 2026-10-29 172148.png){fig-align="center"}
+
+> ## Improvement of Q2.2 
+>
+> Here you will find screenshots for the updated question formatting:
+>
+> ![Image of Q2.2](images/Screenshot 2026-10-29 192815.png)
+>
+> ![Image of Q2.3](images/Screenshot 2026-10-29 192846.png)
+
+## Additional Improvements 
+
+> - Changed the formatting to some questions to slider format in order to rate answers on a point scale.
+>
+>   -  ![](images/Screenshot 2026-10-29 210918.png)
+>
+> - Adjusted the format to better compliment how this question was structured.
+>
+>   - ![](images/Screenshot 2026-10-29 211258.png)
+>
+> - Changed the format to answer selection from a list to a drop down because of the length of the answers.
+>
+>   - ![](images/Screenshot 2026-10-29 211359.png)
